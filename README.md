@@ -4,3 +4,6 @@ This Script make the part green and makes it again to normal after 2 sec.
 This script also plays a sound when the part is touched.
 The "Part" has to be in the workspace.
 It should Obviously be named 'Part'
+
+
+The sound is in the part and the script is also in the part.
